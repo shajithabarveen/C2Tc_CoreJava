@@ -5,6 +5,7 @@ public class Day01 {
 	{
 	System.out.println("C2TC program for jp");
 	System.out.print("c2tc program");
+	
 
 }
 }
